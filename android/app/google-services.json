@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "675536928491",
+    "project_id": "rksh-user-app",
+    "storage_bucket": "rksh-user-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675536928491:android:e9792cb0c73f900ca108ae",
+        "android_client_info": {
+          "package_name": "com.example.userapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675536928491-ga0ek0cl5pk68ehif75a32h7e0c3ivlr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuNy5PfGbIcdUGvcAoIiSW3ZnNXUJ6r6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675536928491-ga0ek0cl5pk68ehif75a32h7e0c3ivlr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "675536928491-hreb8m1rdeoqtrqtu1pttrbieoeki6rs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.userapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
